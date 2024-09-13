@@ -1,0 +1,36 @@
+* {
+    font-family: "JetBrains Mono Nerd Font";
+    /*font-family: "JetBrainsMono Nerd Font";*/
+    font-weight: bold; 
+    font-size: 15px;
+    color: #ebdbb2;
+    padding: 0 2 0px;
+}
+
+window#waybar {
+    background-color: #282828
+
+}    
+.modules-left {
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid#fabd2f
+}
+
+.modules-right {
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid#fabd2f
+}
+
+#workspaces{
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid#fabd2f
+}
+#workspaces button:hover {
+    border: 0px solid #282828;
+    background: none;
+    box-shadow: inherit;
+    text-shadow: inherit;
+}
