@@ -1,1 +1,1 @@
-My dotfiles for i3wm
+My dotfiles for i3wm and hyprland
